@@ -7,6 +7,8 @@ It adds many features inspired by [SCP Foundation universe](https://scp-wiki.wik
 
 [License](LICENSE.md)
 
+[Contributions](CONTRIBUTIONS.md)
+
 [Credits](CREDITS.md)
 
 Download [SCP Dystopia: Redefined](https://mcpedl.com/scp-dystopia-redefined/)
